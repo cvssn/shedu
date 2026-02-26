@@ -12,7 +12,7 @@ copyright 2026 cavassani
 
 ### licensor ("we)
 
-the party offering the Software under these terms and conditions
+the party offering the software under these terms and conditions
 
 ### the software
 
